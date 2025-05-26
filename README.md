@@ -54,7 +54,7 @@ Desenvolvedor iniciante apaixonado por **Inteligência Artificial**, **Python** 
 
 Primeiro projeto com IA - chatbot básico que responde perguntas usando a API da OpenAI com interface web simples.
 
-📂 **[Ver Código →](https://github.com/seu-usuario/chatbot-openai)**
+📂 **[Ver Código →](https://github.com/Alexandro-Barboza-Lopes/Educ_Financ)**
 
 ---
 
