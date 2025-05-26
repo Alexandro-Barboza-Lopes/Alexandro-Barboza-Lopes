@@ -92,7 +92,7 @@ Automação que organiza arquivos de download por tipo e data, executando automa
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandro-Barboza-Lopes&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
