@@ -75,16 +75,7 @@ Esta é uma solução automatizada usando n8n, IA e integração de APIs, focada
 
 Script que analisa dados de financiamentos com foco em características dos produtos, clientes e comportamento das parcelas pagas e atrasadas, utilizando visualizações gráficas para insights.
 
-📂 **[Ver Análise →](https://github.com/seu-usuario/analise-vendas)**
-
----
-
-### 🔄 Bot para Organizar Arquivos
-**Tecnologias:** Python, OS, Pathlib
-
-Automação que organiza arquivos de download por tipo e data, executando automaticamente no sistema.
-
-📂 **[Ver Script →](https://github.com/seu-usuario/organizador-arquivos)**
+📂 **[Ver Análise →](https://github.com/Alexandro-Barboza-Lopes/analise_financiamento)**
 
 ---
 
