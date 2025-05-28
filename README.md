@@ -64,16 +64,16 @@ Primeiro projeto com IA - chatbot básico que responde perguntas usando a API da
 ### ⚡ Automação de Tarefas com N8N  
 **Tecnologias:** N8N, Webhooks, APIs
 
-Workflow que automatiza o envio de notificações e organiza dados de formulários web em planilhas automaticamente.
+Esta é uma solução automatizada usando n8n, IA e integração de APIs, focada em interações via WhatsApp, com respostas contextuais e memória de conversas.
 
-📂 **[Ver Workflow →](https://github.com/seu-usuario/automacao-n8n)**
+📂 **[Ver Workflow →](https://github.com/Alexandro-Barboza-Lopes/Chat_whats)**
 
 ---
 
 ### 📊 Análise de Dados Básica
-**Tecnologias:** Python, Pandas, Matplotlib
+**Tecnologias:** Python, Pandas, Matplotlib, Seaborn, Datetime
 
-Script que analisa dados de vendas de um CSV e gera gráficos básicos para visualização de tendências.
+Script que analisa dados de financiamentos com foco em características dos produtos, clientes e comportamento das parcelas pagas e atrasadas, utilizando visualizações gráficas para insights.
 
 📂 **[Ver Análise →](https://github.com/seu-usuario/analise-vendas)**
 
